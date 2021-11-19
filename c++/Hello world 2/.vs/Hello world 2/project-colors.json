@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7dacac3a-50fc-4549-a68b-5c088dd6477c": {
+      "ProjectGuid": "7dacac3a-50fc-4549-a68b-5c088dd6477c",
+      "DisplayName": "Hello world 2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

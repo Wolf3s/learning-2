@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1af25fdc-1e33-43c3-814e-f2f81861b605": {
+      "ProjectGuid": "1af25fdc-1e33-43c3-814e-f2f81861b605",
+      "DisplayName": "Hello world 3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
